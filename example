@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>veebileht</title>
+</head>
+<body>
+
+<h1>Kütuse hindade võrdlus</h1>
+<h4 style=color:grey;">222512IADB</h4>
+<p>Alltoodud tabelis on võrreldud kütusehindasid 31.oktoobri seisuga.</p>
+<style>
+  table, th, td {
+  border:1px solid black;
+    border-collapse: collapse;
+}
+</style>
+<table style="width:30%">
+  <tr>
+    <th>Kütuse liik</th>
+    <th>Hind</th>
+  </tr>
+  <tr>
+    <td>Bensiin 98</td>
+    <td>1.979€</td>
+  </tr>
+  <tr>
+    <td>Bensiin 95</td>
+    <td>1.929€</td>
+  </tr>
+  <tr>
+    <td>Diisel</td>
+    <td>1.974€</td>
+  </tr>
+
+</table>
+
+<p> Andmed pärinevad lehelt  <a href="https://kutus.hind24.ee/">link</a></p>
+<p>Eesti tanklates jätkub kiire hinnatõus.
+
+
+Tallinna Neste tanklates tõusis bensiin 95 hind nädalavahetusega võrreldes koguni viie sendi võrra ehk üle 2,5 protsendi, 1,929 euroni liitri kohta. Bensiin 98 kallines samuti viis senti ehk 1,979 euroni. Eriti suurt tõusu nägi diislikütuse hind, mis kallines lausa kaheksa sendi võrra ehk üle 4 protsendi, 1,974 euroni.</p>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfPWhoANixAo9C1uAiLbRpTar9XH03wCQyIw&usqp=CAU" alt="bensukas" width="300" height="200">
+
+</body>
+</html>
